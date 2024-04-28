@@ -1,0 +1,33 @@
+2024-04-26 12:30:00,927 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.mathpix.com:443
+2024-04-26 12:30:01,485 - urllib3.connectionpool - DEBUG - https://api.mathpix.com:443 "POST /v3/text HTTP/1.1" 200 334
+2024-04-26 12:30:01,491 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2024-04-26 12:30:02,411 - urllib3.connectionpool - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2024-04-26 12:30:02,418 - google.auth._default - DEBUG - Checking C:\Users\tplay\OneDrive\Documents\School\Classes\Junior Spring\VLIS\trueread-704496e88ac4.json for explicit credentials as part of auth process...
+2024-04-26 12:31:41,594 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-04-26 12:31:41,594 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2024-04-26 12:31:41,594 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2024-04-26 12:31:41,594 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2024-04-26 12:31:41,594 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 21095
+2024-04-26 12:31:41,595 - PIL.PngImagePlugin - DEBUG - STREAM b'eXIf' 21198 14
+2024-04-26 12:31:41,613 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.mathpix.com:443
+2024-04-26 12:31:42,003 - urllib3.connectionpool - DEBUG - https://api.mathpix.com:443 "POST /v3/text HTTP/1.1" 200 515
+2024-04-26 12:31:42,009 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2024-04-26 12:31:43,280 - urllib3.connectionpool - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2024-04-26 12:31:43,285 - google.auth._default - DEBUG - Checking C:\Users\tplay\OneDrive\Documents\School\Classes\Junior Spring\VLIS\trueread-704496e88ac4.json for explicit credentials as part of auth process...
+2024-04-26 12:32:05,981 - PIL.TiffImagePlugin - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2024-04-26 12:32:05,981 - PIL.TiffImagePlugin - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00&'
+2024-04-26 12:32:06,281 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.mathpix.com:443
+2024-04-26 12:32:07,035 - urllib3.connectionpool - DEBUG - https://api.mathpix.com:443 "POST /v3/text HTTP/1.1" 200 529
+2024-04-26 12:32:07,043 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2024-04-26 12:32:08,166 - urllib3.connectionpool - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2024-04-26 12:32:08,171 - google.auth._default - DEBUG - Checking C:\Users\tplay\OneDrive\Documents\School\Classes\Junior Spring\VLIS\trueread-704496e88ac4.json for explicit credentials as part of auth process...
+2024-04-26 12:33:13,414 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.mathpix.com:443
+2024-04-26 12:33:13,804 - urllib3.connectionpool - DEBUG - https://api.mathpix.com:443 "POST /v3/text HTTP/1.1" 200 436
+2024-04-26 12:33:13,811 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2024-04-26 12:33:14,823 - urllib3.connectionpool - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2024-04-26 12:33:14,834 - google.auth._default - DEBUG - Checking C:\Users\tplay\OneDrive\Documents\School\Classes\Junior Spring\VLIS\trueread-704496e88ac4.json for explicit credentials as part of auth process...
+2024-04-26 12:33:32,484 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.mathpix.com:443
+2024-04-26 12:33:32,848 - urllib3.connectionpool - DEBUG - https://api.mathpix.com:443 "POST /v3/text HTTP/1.1" 200 358
+2024-04-26 12:33:32,852 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2024-04-26 12:33:33,875 - urllib3.connectionpool - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2024-04-26 12:33:33,892 - google.auth._default - DEBUG - Checking C:\Users\tplay\OneDrive\Documents\School\Classes\Junior Spring\VLIS\trueread-704496e88ac4.json for explicit credentials as part of auth process...
