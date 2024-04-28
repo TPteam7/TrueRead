@@ -28,7 +28,7 @@ pip install PyQt5 Pillow pygame google-cloud-texttospeech requests
 Clone the repository and navigate into the project directory:
 
 ```bash
-git clone https://github.com/yourusername/TrueRead.git
+git clone https://github.com/TPteam7/TrueRead.git
 cd TrueRead
 ```
 
